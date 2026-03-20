@@ -1,2 +1,4 @@
 # leituras-filosoficas
-mapa de leitura, fichamentos e ideias
+registro de leitura, fichamentos e ideias
+- Anti-Édipo
+- Ética (Espinosa)
